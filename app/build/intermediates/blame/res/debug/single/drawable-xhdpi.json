@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\CPSCRestQuizPart2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\CPSCRestQuizPart2\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\CPSCRestQuizPart2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_expand.png",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\CPSCRestQuizPart2\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_expand.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\CPSCRestQuizPart2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_place.png",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\CPSCRestQuizPart2\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_place.png"
+    }
+]
